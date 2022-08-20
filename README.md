@@ -1,7 +1,7 @@
 # Simple terraform IaC for AWS SQS and Lambda
 
 While playing around with Terraform, I realised how hard it is to find a simple working example for spinning up a Lambda function triggered by SQS messages.
-As a way to consolidate my learnings, I decided to write this small [blog post](https://www.craft.do/s/0bCnXUlirJtuQr).
+As a way to consolidate my learnings, I decided to write this small [blog post](https://medium.com/@davideguerri/terraform-aws-lambda-via-sqs-59983f46f631).
 
 This repository contains reference code for that post.
 
